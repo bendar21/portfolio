@@ -6,7 +6,7 @@
     ];
 </script>
 
-<footer id="contacts" class="py-20 sm:py-32 bg-black border-t border-solid border-violet-950 flex flex-col gap-8 sm:gap-10 items-center px-4">
+<footer id="contacts" class="py-20 sm:py-32 bg-slate-950 border-t border-solid border-violet-950 flex flex-col gap-8 sm:gap-10 items-center px-4">
 
     <span class="px-4 py-2 bg-white text-slate-950 font-medium rounded-full text-sm">
         Connect with me &darr;
